@@ -1,0 +1,9 @@
+limpaze de logs de procura do windows
+
+del /s /f /q C:\Users\Posto\AppData\Local\Google\Chrome\User Data\Default\Cache\*.*
+del /s /f /q C:\Users\Posto\AppData\Local\Google\Chrome\User Data\Default\*.*
+del /s /f /q C:\Users\Posto\AppData\Local\Google\Chrome\User Data\Default\databases\https_tm.uol.com.br_0\*.*
+del /s /f /q C:\Users\Posto\AppData\Local\Google\Chrome\User Data\Default\databases\http_session.smartadtags.com_0\*.*
+del /s /f /q C:\Users\Posto\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\*.*
+del /s /f /q C:\Users\Posto\AppData\Local\Google\Chrome\User Data\Default\DownloadMetadata\*.*
+del /s /f /q C:\ProgramData\Microsoft\Search\Data\Applications\Windows\*.*

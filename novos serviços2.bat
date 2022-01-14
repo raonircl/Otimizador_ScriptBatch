@@ -1,0 +1,21 @@
+sc config "BthHFSrv" start= auto
+sc config "SysMain" start= auto
+sc config "NcbService" start= auto
+sc config "p2psvc" start= auto
+sc config "CscService" start= auto
+sc config "wlidsvc" start= auto
+sc config "SDRSVC" start= auto
+sc config "SCardSvr" start= auto
+sc config "gpsvc" start= auto
+sc config "WebClient" start= auto
+sc config "SessionEnv" start= auto
+sc config "NgcCtnrSvc" start= auto
+sc config "WiaRpc" start= auto
+sc config "Fax" start= auto
+sc config "XblAuthManager" start= auto
+sc config "NgcSvc" start= auto
+sc config "RmSvc" start= auto
+sc config "EntAppSvc" start= auto
+sc config "icssvc" start= auto
+sc config "irmon" start= auto
+pause

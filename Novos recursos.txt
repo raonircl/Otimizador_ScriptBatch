@@ -1,0 +1,461 @@
+Utilitários
+Sistema:
+	relatório de erros do windows
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\WER\ERC
+		C:\ProgramData\Microsoft\Windows\WER\ReportArchive
+		C:\ProgramData\Microsoft\Windows\WER\ReportQueue
+		C:\ProgramData\Microsoft\Windows\WER\Temp
+		C:\Windows\LiveKernelReports\PdcLockWatchdog-20180925-0923.dmp
+	Eventos do windows
+	Histórico de instalação do windows update
+		C:\Windows\SoftwareDistribution\DataStore\DataStore.edb
+		C:\Windows\SoftwareDistribution\DataStore\DataStore.jfm
+		C:\Windows\SoftwareDistribution\DataStore\Logs
+Arquivos de cache:
+	Cache de download do windows
+		C:\Windows\SoftwareDistribution\Download\1b9eb92cc840d15d3664e0a836873218
+	Cache do net assembly(By dpzjsy)
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\AuditPolicy42d3d2cc#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\EventViewer
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.A26c32abb#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Abf69f55a#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.C26a36d2b#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.D0ff51f83#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Ga41585c2#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.I0cd65b90#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Ic1a2041b#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Kd58820a5#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Mf49f6405#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Mff1be75b#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.O2eb0cc9a#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.O4161a3a3#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.O4a946565#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.O4b20f4dd#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.O5263ae01#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.O5949707a#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.O854200f9#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Oab3f8ec6#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Oe2e369ff#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Oeab01fba#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.P047767ce#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.P08ac43d5#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.P1706cafe#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.P34f388c1#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.P655586bb#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.P6f9a5e83#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.P9de5a786#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Pefb7a36b#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.S0f8e494c#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.S1bc92e04#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.S356e1ba0#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.S54faafb0#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.S88747207#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Sa56e3556#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Sb6a1f1bc#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.T9d753d8c#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.V1955d7fd#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.V28a60cc2#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.V5499e76b#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.V883708cb#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Vf9a08577#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Vff41975e#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.W0bb5dac4#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.W193497eb#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.W2ded559f#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.W3cdb5602#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.W69ef49d2#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.W708fc392#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Wad78daf4#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Wcffedcb4#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Wd518ee0d#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Wd75d181a#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.We9f24001#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Wed3937f9#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\MMCEx
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\MMCFxCommon
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\mscorlib
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\napcrypt
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\napinit
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Presentatio5ae0f00f#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\Presentatioaec034ca#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\PresentationCore
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\SecurityAudf6921413#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\SrpUxSnapIn
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\System
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Comp46f2b404#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Configuration
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Core
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Data
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Deployment
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Drawing
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Management
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Net.Http
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Numerics
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Runt0d283adf#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Runt73a1fc9d#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Runtc259d85b#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Runteb92aa12#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Thre7bb2aad0#
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Web
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Windows.Forms
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Xaml
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Xml
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Xml.Linq
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\TaskScheduler
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\UIAutomationTypes
+		C:\Windows\assembly\NativeImages_v4.0.30319_32\WindowsBase
+		C:\Windows\assembly\NativeImages_v4.0.30319_64\Accessibility
+		C:\Windows\assembly\NativeImages_v4.0.30319_64\AuditPolicy42d3d2cc#
+		C:\Windows\assembly\NativeImages_v4.0.30319_64\CustomMarshalers
+		C:\Windows\assembly\NativeImages_v4.0.30319_64\EventViewer
+		C:\Windows\assembly\NativeImages_v4.0.30319_64\Microsoft-W62ccfac7#
+		C:\Windows\assembly\NativeImages_v4.0.30319_64\Microsoft-Wfa2436cc#
+		C:\Windows\assembly\NativeImages_v4.0.30319_64\Microsoft.A26c32abb#
+		C:\Windows\assembly\NativeImages_v4.0.30319_64\Microsoft.Abf69f55a#
+		C:\Windows\assembly\NativeImages_v4.0.30319_64\Microsoft.Be5f4b329#
+		C:\Windows\assembly\NativeImages_v4.0.30319_64\Microsoft.C26a36d2b#
+		C:\Windows\assembly\NativeImages_v4.0.30319_64\Microsoft.C99be4d25#
+ 	Arquivos prefetch do windows(by cheng)
+		C:\Windows\Prefetch\ReadyBoot
+		C:\Windows\Prefetch\ResPriHMStaticDb.ebd
+	Cache de miniatura
+		C:\Users\Raoni\AppData\Local\IconCache.db
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\ExplorerStartupLog.etl
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\ExplorerStartupLog_RunOnce.etl
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\iconcache_1280.db
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\iconcache_16.db
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\iconcache_1920.db
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\iconcache_256.db
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\iconcache_2560.db
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\iconcache_32.db
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\iconcache_48.db
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\iconcache_768.db
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\iconcache_96.db
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\iconcache_custom_stream.db
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\iconcache_exif.db
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\iconcache_sr.db
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\iconcache_wide.db
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\iconcache_wide_alternate.db
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\NotifyIcon
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1280.db
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\thumbcache_16.db
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1920.db
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\thumbcache_2560.db
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\thumbcache_48.db
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\thumbcache_768.db
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\thumbcache_custom_stream.db
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\thumbcache_exif.db
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\thumbcache_wide.db
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Explorer\thumbcache_wide_alternate.db
+	Cache web do WinNet
+		C:\Users\defaultuser0\AppData\Local\Microsoft\Windows\INetCache\counters.dat
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\INetCache\Content.MSO
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\INetCache\Content.Word
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\INetCache\counters.dat
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\INetCache\IE
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\INetCache\Low
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\INetCache\Virtualized
+		C:\Users\defaultuser0\AppData\Local\Microsoft\Windows\Temporary Internet Files\counters.dat
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.MSO
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Word
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Temporary Internet Files\counters.dat
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Temporary Internet Files\IE
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Temporary Internet Files\Low
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\Temporary Internet Files\Virtualized
+		C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\Windows\INetCache\counters.dat
+		C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\Windows\INetCache\IE
+		C:\Users\defaultuser0\AppData\Local\Packages\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy\AC\INetCache\5NZ2OULR
+		C:\Users\defaultuser0\AppData\Local\Packages\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy\AC\INetCache\6DNZOJ3D
+		C:\Users\defaultuser0\AppData\Local\Packages\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy\AC\INetCache\7URGONXY
+		C:\Users\defaultuser0\AppData\Local\Packages\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy\AC\INetCache\container.dat
+		C:\Users\defaultuser0\AppData\Local\Packages\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy\AC\INetCache\MSIMGSIZ.DAT
+		C:\Users\defaultuser0\AppData\Local\Packages\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy\AC\INetCache\TLLBQJA4
+		C:\Users\Raoni\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\AC\INetCache\container.dat
+		C:\Users\Raoni\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\AC\INetCache\MSIMGSIZ.DAT
+	Cookies do WinINet
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\INetCookies\0USOVR62.cookie
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\INetCookies\17Z5A1EX.cookie
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\INetCookies\2FK66VTV.cookie
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\INetCookies\4T1MTI8A.cookie
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\INetCookies\4X4WDY3D.cookie
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\INetCookies\6EHZTYTQ.cookie
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\INetCookies\6G54NV34.cookie
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\INetCookies\6OU9WZNR.cookie
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\INetCookies\7CBOBU99.cookie
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\INetCookies\88S6J269.cookie
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\INetCookies\8HENO700.cookie
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\INetCookies\container.dat
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\INetCookies\DNTException
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\INetCookies\FY718BJW.cookie
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\INetCookies\Low
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\INetCookies\OIFGUA2K.cookie
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\INetCookies\PrivacIE
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\INetCookies\RAGBHQWH.cookie
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\INetCookies\UOWP3SJ1.cookie
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\INetCookies\VDJ3J71G.cookie
+		C:\Users\Raoni\AppData\Local\Microsoft\Windows\INetCookies\W56U1KFU.cookie
+		C:\Users\defaultuser0\AppData\Local\Packages\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy\AC\INetCookies\container.dat
+		C:\Users\Raoni\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\AC\INetCookies\container.dat
+Aplicações:
+	Pasta de cache de pacote
+		C:\ProgramData\Package Cache\{13A4EE12-23EA-3371-91EE-EFB36DDFFF3E}v12.0.21005\packages\vcRuntimeMinimum_x86\cab1.cab
+		C:\ProgramData\Package Cache\{13A4EE12-23EA-3371-91EE-EFB36DDFFF3E}v12.0.21005\packages\vcRuntimeMinimum_x86\vc_runtimeMinimum_x86.msi
+		C:\ProgramData\Package Cache\{2CD849A7-86A1-34A6-B8F9-D72F5B21A9AE}v14.12.25810\packages\vcRuntimeAdditional_amd64\cab1.cab
+		C:\ProgramData\Package Cache\{2CD849A7-86A1-34A6-B8F9-D72F5B21A9AE}v14.12.25810\packages\vcRuntimeAdditional_amd64\vc_runtimeAdditional_x64.msi
+		C:\ProgramData\Package Cache\{37B8F9C7-03FB-3253-8781-2517C99D7C00}v11.0.61030\packages\vcRuntimeAdditional_amd64\cab1.cab
+		C:\ProgramData\Package Cache\{37B8F9C7-03FB-3253-8781-2517C99D7C00}v11.0.61030\packages\vcRuntimeAdditional_amd64\vc_runtimeAdditional_x64.msi
+		C:\ProgramData\Package Cache\{7FED75A1-600C-394B-8376-712E2A8861F2}v14.12.25810\packages\vcRuntimeAdditional_x86\cab1.cab
+		C:\ProgramData\Package Cache\{7FED75A1-600C-394B-8376-712E2A8861F2}v14.12.25810\packages\vcRuntimeAdditional_x86\vc_runtimeAdditional_x86.msi
+		C:\ProgramData\Package Cache\{828952EB-5572-3666-8CA9-000B6CE79350}v14.12.25810\packages\vcRuntimeMinimum_x86\cab1.cab
+		C:\ProgramData\Package Cache\{828952EB-5572-3666-8CA9-000B6CE79350}v14.12.25810\packages\vcRuntimeMinimum_x86\vc_runtimeMinimum_x86.msi
+		C:\ProgramData\Package Cache\{929FBD26-9020-399B-9A7A-751D61F0B942}v12.0.21005\packages\vcRuntimeAdditional_amd64\cab1.cab
+		C:\ProgramData\Package Cache\{929FBD26-9020-399B-9A7A-751D61F0B942}v12.0.21005\packages\vcRuntimeAdditional_amd64\vc_runtimeAdditional_x64.msi
+		C:\ProgramData\Package Cache\{A749D8E6-B613-3BE3-8F5F-045C84EBA29B}v12.0.21005\packages\vcRuntimeMinimum_amd64\cab1.cab
+		C:\ProgramData\Package Cache\{A749D8E6-B613-3BE3-8F5F-045C84EBA29B}v12.0.21005\packages\vcRuntimeMinimum_amd64\vc_runtimeMinimum_x64.msi
+		C:\ProgramData\Package Cache\{B175520C-86A2-35A7-8619-86DC379688B9}v11.0.61030\packages\vcRuntimeAdditional_x86\cab1.cab
+		C:\ProgramData\Package Cache\{B175520C-86A2-35A7-8619-86DC379688B9}v11.0.61030\packages\vcRuntimeAdditional_x86\vc_runtimeAdditional_x86.msi
+		C:\ProgramData\Package Cache\{BD95A8CD-1D9F-35AD-981A-3E7925026EBB}v11.0.61030\packages\vcRuntimeMinimum_x86\cab1.cab
+		C:\ProgramData\Package Cache\{BD95A8CD-1D9F-35AD-981A-3E7925026EBB}v11.0.61030\packages\vcRuntimeMinimum_x86\vc_runtimeMinimum_x86.msi
+		C:\ProgramData\Package Cache\{C99E2ADC-0347-336E-A603-F1992B09D582}v14.12.25810\packages\vcRuntimeMinimum_amd64\cab1.cab
+		C:\ProgramData\Package Cache\{C99E2ADC-0347-336E-A603-F1992B09D582}v14.12.25810\packages\vcRuntimeMinimum_amd64\vc_runtimeMinimum_x64.msi
+		C:\ProgramData\Package Cache\{CF2BEA3C-26EA-32F8-AA9B-331F7E34BA97}v11.0.61030\packages\vcRuntimeMinimum_amd64\cab1.cab
+		C:\ProgramData\Package Cache\{CF2BEA3C-26EA-32F8-AA9B-331F7E34BA97}v11.0.61030\packages\vcRuntimeMinimum_amd64\vc_runtimeMinimum_x64.msi
+		C:\ProgramData\Package Cache\{F8CFEB22-A2E7-3971-9EDA-4B11EDEFC185}v12.0.21005\packages\vcRuntimeAdditional_x86\cab1.cab
+		C:\ProgramData\Package Cache\{F8CFEB22-A2E7-3971-9EDA-4B11EDEFC185}v12.0.21005\packages\vcRuntimeAdditional_x86\vc_runtimeAdditional_x86.msi
+Arquivos temporários
+	Arquivos temporários WinSxS
+		C:\Windows\WinSxS\ManifestCache\c51851603bc3818b_blobs.bin
+		C:\Windows\CbsTemp\30691024_3790739906
+	Log Do windows(By chenyu, yukiSakura)
+		C:\Windows\DirectX.log
+		C:\Windows\DtcInstall.log
+		C:\Windows\lsasetup.log
+		C:\Windows\Panther\cbs.log
+		C:\Windows\Panther\DDACLSys.log
+		C:\Windows\Panther\setupact.log
+		C:\Windows\Panther\setuperr.log
+		C:\Windows\Performance\WinSAT\winsat.log
+		C:\Windows\PFRO.log
+		C:\Windows\setupact.log
+		C:\Windows\setuperr.log
+		C:\Windows\WindowsUpdate.log
+		C:\Users\Raoni\AppData\Local\Microsoft\CLR_v4.0\ngen.log
+		C:\Users\Raoni\AppData\Local\Microsoft\CLR_v4.0\UsageLogs\NGenTask.exe.log
+		C:\Users\Raoni\AppData\Local\Microsoft\CLR_v4.0\UsageLogs\sdiagnhost.exe.log
+		C:\Users\Raoni\AppData\Local\Microsoft\CLR_v4.0_32\ngen.log
+		C:\Users\Raoni\AppData\Local\Microsoft\CLR_v4.0_32\UsageLogs\Mouse Server Luminati.exe.log
+		C:\Users\Raoni\AppData\Local\Microsoft\CLR_v4.0_32\UsageLogs\NGenTask.exe.log
+		C:\Users\Raoni\AppData\Local\Microsoft\CLR_v4.0_32\UsageLogs\Squirrel.exe.log
+		C:\Users\Raoni\AppData\Local\Microsoft\CLR_v4.0_32\UsageLogs\Update.exe.log
+		C:\Windows\Logs\CBS
+		C:\Windows\Logs\DirectX.log
+		C:\Windows\Logs\DISM
+		C:\Windows\Logs\dosvc
+		C:\Windows\Logs\DPX
+		C:\Windows\Logs\DXError.log
+		C:\Windows\Logs\HomeGroup
+		C:\Windows\Logs\MeasuredBoot
+		C:\Windows\Logs\NetSetup
+		C:\Windows\Logs\SettingSync
+		C:\Windows\Logs\SetupCleanupTask
+		C:\Windows\Logs\SIH
+		C:\Windows\Logs\SystemRestore
+		C:\Windows\Logs\Telephony
+		C:\Windows\Logs\WindowsUpdate
+		C:\Windows\Performance\WinSAT\DataStore\2018-09-25 04.12.57.163.winsat.etl
+		C:\Windows\Performance\WinSAT\DataStore\2018-09-25 04.12.58.642 Cpu.Assessment (Initial).WinSAT.xml
+		C:\Windows\Performance\WinSAT\DataStore\2018-09-25 04.12.58.642 Disk.Assessment (Initial).WinSAT.xml
+		C:\Windows\Performance\WinSAT\DataStore\2018-09-25 04.12.58.642 DWM.Assessment (Initial).WinSAT.xml
+		C:\Windows\Performance\WinSAT\DataStore\2018-09-25 04.12.58.642 Graphics3D.Assessment (Initial).WinSAT.xml
+		C:\Windows\Performance\WinSAT\DataStore\2018-09-25 04.12.58.642 GraphicsMedia.Assessment (Initial).WinSAT.xml
+		C:\Windows\Performance\WinSAT\DataStore\2018-09-25 04.12.58.642 Mem.Assessment (Initial).WinSAT.xml
+		C:\Windows\Performance\WinSAT\DataStore\2018-09-25 04.15.30.467 Formal.Assessment (Initial).WinSAT.xml
+		C:\System Volume Information\Chkdsk\Chkdsk20181008214150.log
+		C:\System Volume Information\Chkdsk\Chkdsk20181108061720.log
+		D:\System Volume Information\Chkdsk\Chkdsk20180910024720.log
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.001.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.002.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.003.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.004.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.005.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.006.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.007.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.008.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.009.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.010.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.011.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.012.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.013.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.014.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.015.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.016.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.017.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.018.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.019.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.020.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.021.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.022.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.023.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.024.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.025.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.026.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.027.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.028.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.029.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.030.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.031.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.032.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.033.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.034.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.035.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.036.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.037.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.038.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.039.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.040.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.041.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.042.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.043.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.044.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.045.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.046.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.047.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.048.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.049.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.050.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.051.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.052.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.053.etl
+		C:\ProgramData\USOShared\Logs\UpdateSessionOrchestration.054.etl
+	Arquivos temeporários
+		C:\Windows\TEMP\adobegc.log
+		C:\Windows\TEMP\CreativeCloud
+		C:\Windows\TEMP\MpCmdRun.log
+		C:\Windows\TEMP\SDIAG_d0c0d2f8-ac0f-4153-8319-8353828dff72
+		C:\Windows\TEMP\VulkanRT
+		C:\Windows\TEMP\{C4FCEC04-B528-48D3-AFE6-E3C52C7078C5}
+		C:\Users\Raoni\AppData\Local\Temp\058d191a-6ac4-44fd-b39b-0d5c1da1d5cd.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\058f1f8c-01c7-42b2-8cc1-a4b972ce2eeb.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\09182150-00001004-t19mybq3j3
+		C:\Users\Raoni\AppData\Local\Temp\09182152-00001004-u7z9qkwgvc
+		C:\Users\Raoni\AppData\Local\Temp\09182200-00000298-mfx1i4elqe
+		C:\Users\Raoni\AppData\Local\Temp\09182200-00001698-x4tq32464h
+		C:\Users\Raoni\AppData\Local\Temp\0c57130b-0740-456a-83cb-63cbb95f1251.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\0cfa982e-4a4d-49a2-9e6e-e9129ca3c847.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\0e9b4872-3170-436d-9e16-cfe93e8f0f55.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\10142250-00000b50-sqpnjo2aa9
+		C:\Users\Raoni\AppData\Local\Temp\10142251-00000bc4-uu35hb4fba
+		C:\Users\Raoni\AppData\Local\Temp\1106f799-a55a-47de-affd-bca1c85aa7d9.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\11250401-00000d54-09oah4uk75
+		C:\Users\Raoni\AppData\Local\Temp\1411ec3a-1966-461b-8356-aed281b72c22.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\15d546bd-d0b0-445a-adbe-feb7c1bac110.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\1762158d-1fea-4178-9dd1-fa8846469290.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\1cf372fc-cc75-454c-af67-4d89785a9fc7.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\1f81e97e-1508-43bb-b319-914f1d8a00e1.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\1f8c95e4-a841-4a54-b13f-7d53c6835ab1.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\23eb9335-9806-45b9-8d43-b1b24b29a4c9.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\242d75df-424b-4b38-889b-11e87772b965.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\25085a1c-fabd-408a-8e99-83abce57d2a9.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\28a440b0-6173-4b1d-aab7-5b6962d86604.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\2a68b103-b10b-49fe-8ba7-2b187904d290.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\2c915784-ba3b-4c68-845d-3827e2e5335e.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\2e1f91ec-ac2b-4991-9820-dab3ac98eb30.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\2e7be8e5-3739-413d-8f47-0bc478a28713.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\33019583-0ba4-45a6-b307-8ecd6446c118.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\3afe5612-d1de-4653-a14d-75c4055efb14.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\3e243958-5647-4577-892d-af5357ba13c2.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\3e626a54-9a83-457c-8d34-bcbbca6c211a.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\4018cb3e-2307-4a9e-b6cb-224d7908b480.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\43882afc-da68-439d-b1ea-34bf6c8d4901.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\47eefcff-a274-4114-a53b-92e1d81547e5.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\4abe88af-721a-43c0-a073-87a281df282b.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\4b97c1db-8b81-4716-a013-5d89362c6347.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\4bd5aae4-283e-4eac-a4c9-a4aa21941695.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\4e2a10d4-0047-4d58-a775-a12f1d9d0f0f.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\517f3579-1457-4964-8be8-9cd2582bc4ae.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\51B319F2-0257-48B8-8B21-E44D46BBCFAF
+		C:\Users\Raoni\AppData\Local\Temp\51b855c0-80fe-492a-9b0b-5430c5266c52.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\55e523b3-d0b1-4a33-a3bf-c3580a73bd5a.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\5994215a-0a57-4452-81a1-750a82ec16cf.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\5B876518-8B84-4E87-BFE2-E05DEF5A07A4
+		C:\Users\Raoni\AppData\Local\Temp\5cf0fd6e-a89a-4ff7-b482-ad0096094642.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\5d602b64-9b4a-49fd-bde6-9da60132d7ae.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\5e88552b-c5d7-49b3-9a08-6de77fa8a36c.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\6011017D-1CB5-4952-9341-FCAF2EA4AFF8
+		C:\Users\Raoni\AppData\Local\Temp\62eaa80b-9ee1-4bc6-98be-eed80a0bd412.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\67d5e50e-e276-4c42-bb58-59e9f981c977.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\6FEED1E8-EDD4-47D3-903D-EC47134D3E6C
+		C:\Users\Raoni\AppData\Local\Temp\760cf74d-331e-422f-81c8-f0c6b438f814.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\7a40ac5d-fa51-4ba6-98dd-5a7110b684f0.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\7f6cb0ce-8c88-4887-83e0-ec04e3714239.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\7zS01419B96
+		C:\Users\Raoni\AppData\Local\Temp\7zS18DC.tmp
+		C:\Users\Raoni\AppData\Local\Temp\845804c0-dcc7-4fe4-8f25-8a7d3dd68a21.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\860d906f-08ce-41b5-8714-d109b6fc80c5.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\8e11e4ca-3a53-4b25-969c-d664a4a2f95c.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\8fb9e633-0c5a-44fb-aca4-e68bd6abf43c.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\8fe7a27e-67d4-424e-8ea0-1ed04f132c7a.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\90389e9a-e060-4a5a-9f97-8d6947d44402.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\92e1ba91-b968-4dc6-9b1d-8fdbbff22330.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\92f60594-bb4d-4a7b-90a5-a395f0b08854.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\93374b8d-fbb5-4947-81ec-59c77e1eb242.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\9463dd80-f768-4092-8b30-0ac2830a8d7c.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\946416ab-30c1-4d32-a118-f817ab2655b9.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\97a9f53e-3679-4ee4-9085-e567f2686f47.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\99e8e345-a258-4b66-aaa4-15f1c33481b9.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\9dbf5113-60ad-44d3-b58f-e10fa436d450.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\9e1c8fce-592b-4b2a-8285-113911abafbd.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\a36c8b30-46d1-42ee-9e3d-fe821f23ba1f.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\a99c4c5e-38a9-45c0-87f3-b0f80426d92e.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\aadb99e6-4d83-4a2a-be23-70a73644d3a8.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\aca653de-94c9-4572-bafb-55a4d2b1ac3f.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\accf0364-77f5-47e2-8ff1-1ee10ed6b1e6.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\adobegc.log
+		C:\Users\Raoni\AppData\Local\Temp\AdobeIPCBroker.log
+		C:\Users\Raoni\AppData\Local\Temp\AdobeIPCBrokerCustomHook.log
+		C:\Users\Raoni\AppData\Local\Temp\af2459c6-1de7-40ef-825e-92c2253eac58.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\af95dd98-1814-40e3-88bb-d9b15dd92ad1.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\aria-debug-5452.log
+		C:\Users\Raoni\AppData\Local\Temp\b6dc5b28-ce14-42b9-a37e-6fc01418df6e.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\b740c335-839d-43e4-8f71-308f55ffba22.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\b8255c57-91b3-46f9-87d6-4b06f8a097e8.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\be80b0f0-ef6e-4069-889b-7375c7b8ffb3.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\befe6504-2e17-4f4a-9102-69c8f589c713.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\BFA2A64F-AB69-4092-A5CD-0FCF06899888.Diagnose.Admin.0.etl
+		C:\Users\Raoni\AppData\Local\Temp\BFA2A64F-AB69-4092-A5CD-0FCF06899888.Repair.Admin.1.etl
+		C:\Users\Raoni\AppData\Local\Temp\BIT1138.tmp
+		C:\Users\Raoni\AppData\Local\Temp\c4c08dc5-b93a-430a-ad62-b86c4a8b9297.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\c6121cf3-040b-484a-b34e-26a8a5fe60f9.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\cd51fdb3-588d-413a-b4e7-52604e2f222a.tmp.node
+		C:\Users\Raoni\AppData\Local\Temp\CreativeCloud
+	Estação de reciclagem
+		C:\$Recycle.Bin\S-1-5-21-3915911380-2263693910-2376757306-1001
+		D:\$Recycle.Bin\S-1-5-21-186255856-4178853577-3913292331-1001
+		D:\$Recycle.Bin\S-1-5-21-3915911380-2263693910-2376757306-1001
+		E:\$Recycle.Bin\S-1-5-21-186255856-4178853577-3913292331-1001
+		E:\$Recycle.Bin\S-1-5-21-3915911380-2263693910-2376757306-1001
+		F:\$Recycle.Bin\S-1-5-21-186255856-4178853577-3913292331-1001
+		F:\$Recycle.Bin\S-1-5-21-3915911380-2263693910-2376757306-1001
+		G:\$Recycle.Bin\S-1-5-21-3915911380-2263693910-2376757306-1001
+	Arquivos inúteis de MA
+		C:\ProgramData\Microsoft\Windows Defender\Support\MPDetection-09172018-183714.log
+		C:\ProgramData\Microsoft\Windows Defender\Support\MPDetection-10232018-225111.log
+		C:\ProgramData\Microsoft\Windows Defender\Support\MPDetection-11242018-143547.log
+		C:\ProgramData\Microsoft\Windows Defender\Support\MPLog-09172018-183714.log
+		C:\ProgramData\Microsoft\Windows Defender\Support\MpWppTracing-11152018-174524-00000003-ffffffff.bin
+		C:\ProgramData\Microsoft\Windows Defender\Support\MpWppTracing-11152018-184137-00000003-ffffffff.bin
+		C:\ProgramData\Microsoft\Windows Defender\Support\MpWppTracing-11162018-095737-00000003-ffffffff.bin
+		C:\ProgramData\Microsoft\Windows Defender\Support\MpWppTracing-11172018-155508-00000003-ffffffff.bin
+		C:\ProgramData\Microsoft\Windows Defender\Support\MpWppTracing-11182018-173409-00000003-ffffffff.bin
+		C:\ProgramData\Microsoft\Windows Defender\Support\MpWppTracing-11192018-220322-00000003-ffffffff.bin
+		C:\ProgramData\Microsoft\Windows Defender\Support\MpWppTracing-11192018-221432-00000003-ffffffff.bin
+		C:\ProgramData\Microsoft\Windows Defender\Support\MpWppTracing-11242018-143548-00000003-ffffffff.bin
+		C:\ProgramData\Microsoft\Windows Defender\Network Inspection System\Support\NisLog.txt
+
+		

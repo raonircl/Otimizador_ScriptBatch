@@ -1,0 +1,9 @@
+Serviço de Demonstração de Revenda
+RetailDemo
+Serviço de Gateway Bluetooth de Áudio
+BTAGService
+Serviço de Suporte a Usuários de Bluetooth_8352d
+BluetoothUserService_8352d
+
+Agendador de tarefas:
+Schtasks.exe /change /enable /TN "\Microsoft\XblGameSave\XblGameSaveTask"

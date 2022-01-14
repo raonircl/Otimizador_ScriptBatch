@@ -1,0 +1,1 @@
+del /s /f /q C:\Windows\Logs\DISM\*.*
